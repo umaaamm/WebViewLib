@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WebViewLib"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.3"
   spec.summary      = "A short description of WebViewLib."
 
   # This description is used to generate tags and improve search results.
